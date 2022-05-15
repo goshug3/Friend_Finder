@@ -30,7 +30,7 @@
 
 ## 設計書
 ER図  
-<https://app.diagrams.net/#G1HayVM1cn54nZKe3fyAthggM29R4FtpZ1>  
+<https://drive.google.com/drive/my-drive>  
 
 テーブル定義書  
 <https://docs.google.com/spreadsheets/d/1dwe2qkn-lK_y3PapbfpK-8Khun2RZljDmeyENZR2H3Q/edit#gid=917360762>  
