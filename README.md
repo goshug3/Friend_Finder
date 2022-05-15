@@ -29,9 +29,14 @@
 - 一緒にゲームをできる人を探す時
 
 ## 設計書
-ER図<https://app.diagrams.net/#G1HayVM1cn54nZKe3fyAthggM29R4FtpZ1>  
-テーブル定義書<https://docs.google.com/spreadsheets/d/1dwe2qkn-lK_y3PapbfpK-8Khun2RZljDmeyENZR2H3Q/edit#gid=917360762>  
-アプリケーション詳細設計<https://docs.google.com/spreadsheets/d/18sR1JFZ1Ul3-aEZaVLsUEfHWipdF1eUo/edit#gid=549108681>
+ER図  
+<https://app.diagrams.net/#G1HayVM1cn54nZKe3fyAthggM29R4FtpZ1>  
+
+テーブル定義書  
+<https://docs.google.com/spreadsheets/d/1dwe2qkn-lK_y3PapbfpK-8Khun2RZljDmeyENZR2H3Q/edit#gid=917360762>  
+
+アプリケーション詳細設計  
+<https://docs.google.com/spreadsheets/d/18sR1JFZ1Ul3-aEZaVLsUEfHWipdF1eUo/edit#gid=549108681>  
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1CJnGFYJB0p3KN3a7dH1KM2zoJtL4ErYvhFqu6cWAwzQ/edit?usp=sharing>
