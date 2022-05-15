@@ -24,19 +24,20 @@
 ### 主な利用シーン
 <投稿>
 - 一緒にゲームをできる人を募集する時
-- ゲームの楽しさを共有したい時
+- ゲームの楽しさを共有したい時  
+
 <閲覧>
 - 一緒にゲームをできる人を探す時
 
 ## 設計書
 ER図  
-<https://drive.google.com/drive/my-drive>  
+<https://drive.google.com/file/d/1aFRY_hzg6m_48weu8WAkBLKaSql-KiFW/view?usp=sharing>  
 
 テーブル定義書  
 <https://docs.google.com/spreadsheets/d/1dwe2qkn-lK_y3PapbfpK-8Khun2RZljDmeyENZR2H3Q/edit#gid=917360762>  
 
 アプリケーション詳細設計  
-<https://docs.google.com/spreadsheets/d/18sR1JFZ1Ul3-aEZaVLsUEfHWipdF1eUo/edit#gid=549108681>  
+<https://docs.google.com/spreadsheets/d/18sR1JFZ1Ul3-aEZaVLsUEfHWipdF1eUo/edit?usp=sharing&ouid=100412683268984375256&rtpof=true&sd=true>  
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1CJnGFYJB0p3KN3a7dH1KM2zoJtL4ErYvhFqu6cWAwzQ/edit?usp=sharing>
